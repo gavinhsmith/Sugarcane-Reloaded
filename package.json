@@ -1,0 +1,26 @@
+{
+  "name": "sugarcane-reloaded",
+  "version": "1.0.0",
+  "description": "A Minecraft Server Management Software",
+  "main": "index.js",
+  "dependencies": {
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "Minecraft", "Minecraft Server", "Server Management", "Game Server"
+  ],
+  "homepage": "https://github.com/gavinhsmith/Sugarcane-Reloaded#readme",
+  "bugs": {
+    "url": "https://github.com/gavinhsmith/Sugarcane-Reloaded/issues"
+  },
+  "author": "Gavin Smith <me@gavinhsmith.com> (https://gavinhsmith.com)",
+  "license": "MIT"
+}
